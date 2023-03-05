@@ -1,15 +1,36 @@
 # Tinyprintf
-
-Implementation of tinyprintf which is a simplified version of printf(3) in C language.
-
-
-Implemented directives :
-
+Implementation of tinyprintf which is a simplified version of printf(3) in C language.\
+\
+Implemented directives :\
 • %% • %d • %u • %s • %c • %o • %x
+\
+\
+To download the project :
+```bash
+wget https://github.com/TRKirua/Tinyprintf.git
+-O "Tinyprintf.zip" &&
+unzip ./"Tinyprintf.zip" &&
+rm ./"Tinyprintf.zip"
+```
 
+## Usage
+To run the project :\
+Go in the src/tinyprintf.c file and change follow the instructions in the main() functions at the end of the file.\
+\
+After that you can compile the project with :
+```bash
+make
+```
+Then:
+```bash
+./tinyprintf
+```
 
-How to use tinyprintf :
+## Clean project
+To clean the project :
+```bash
+make clean
+```
 
-Go in the src/tinyprintf.c file and change follow the instructions in the main() functions at the end of the file.
-
-After that, just use the command "make" in the same folder as the Makefile file, then just do "./tinyprintf".
+## Credits :
+ * [Enes Ekici](https://github.com/TRKirua)
