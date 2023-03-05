@@ -7,8 +7,7 @@ Implemented directives :\
 \
 To download the project :
 ```bash
-wget https://github.com/TRKirua/Tinyprintf.git
--O "Tinyprintf.zip" &&
+wget https://github.com/TRKirua/Tinyprintf.git -O "Tinyprintf.zip" &&
 unzip ./"Tinyprintf.zip" &&
 rm ./"Tinyprintf.zip"
 ```
