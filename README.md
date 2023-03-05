@@ -30,6 +30,3 @@ To clean the project :
 ```bash
 make clean
 ```
-
-## Credits :
- * [Enes Ekici](https://github.com/TRKirua)
