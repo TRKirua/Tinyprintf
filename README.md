@@ -4,10 +4,15 @@ Implementation of tinyprintf which is a simplified version of printf(3) in C lan
 
 Implemented directives :
 • %%
+
 • %d
 
 • %u
+
 • %s
+
 • %c
+
 • %o
+
 • %x
