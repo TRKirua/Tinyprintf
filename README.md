@@ -1,11 +1,11 @@
 # Tinyprintf
 Implementation of tinyprintf which is a simplified version of printf(3) in C language.\
 \
-Implemented directives :\
+Implemented directives:\
 • %% • %d • %u • %s • %c • %o • %x
 \
 \
-To download the project :
+To download the project:
 ```bash
 wget https://github.com/TRKirua/Tinyprintf/archive/refs/heads/main.zip -O "Tinyprintf.zip" &&
 unzip ./"Tinyprintf.zip" &&
@@ -13,10 +13,10 @@ rm ./"Tinyprintf.zip"
 ```
 
 ## Usage
-To run the project :\
+To run the project:\
 Go in the src/tinyprintf.c file and change follow the instructions in the main() functions at the end of the file.\
 \
-After that you can compile the project with :
+After that you can compile the project with:
 ```bash
 make
 ```
@@ -26,7 +26,7 @@ Then:
 ```
 
 ## Clean project
-To clean the project :
+To clean the project:
 ```bash
 make clean
 ```
