@@ -14,7 +14,7 @@ rm ./"Tinyprintf.zip"
 
 ## Usage
 To run the project:\
-Go in the src/tinyprintf.c file and change follow the instructions in the main() functions at the end of the file.\
+Go in the src/tinyprintf.c file and follow the instructions in the main() function at the end of the file.\
 \
 After that you can compile the project with:
 ```bash
